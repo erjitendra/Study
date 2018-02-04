@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Study</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string-array name="Subjects">
+        <item>Maths</item>
+        <item>English</item>
+        <item>GK</item>
+        <item>Reasoning</item>
+        <item>JAVA</item>
+    </string-array>
+</resources>
